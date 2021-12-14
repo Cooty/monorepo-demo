@@ -1,7 +1,7 @@
 {
   "name": "@monorepo-demo/app",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
@@ -13,7 +13,7 @@
     "vite": "^2.7.2"
   },
   "dependencies": {
-    "@monorepo-demo/math": "^1.0.0",
+    "@monorepo-demo/math": "^1.0.1",
     "@popperjs/core": "^2.11.0",
     "bootstrap": "^5.1.3"
   }
