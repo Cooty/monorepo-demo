@@ -6,7 +6,7 @@
     "scripts": {
         "test": "lerna run test",
         "dev": "lerna run dev --scope=@monorepo-demo/app",
-        "new-version": "lerna version",
+        "new-version": "lerna version --changelog-preset angular",
         "diff": "lerna diff"
     },
     "devDependencies": {
